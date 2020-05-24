@@ -14,6 +14,6 @@ digits_mapping = {
 output = ''
 
 for number in phone:
-    output += digits_mapping[number] + " "
+    output += digits_mapping.get(number, "!") + " "
 
 print(output)
