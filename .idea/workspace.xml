@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38c2ee50-6eed-46b3-a622-038ca987943b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +18,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="945" />
-    <option name="width" value="910" />
-    <option name="height" value="1045" />
   </component>
   <component name="ProjectId" id="1cah5gJcNTYBcNuKTRCnHwBtrDD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -118,5 +112,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590773386780" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1590773805963">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1590773805963" />
   </component>
 </project>
