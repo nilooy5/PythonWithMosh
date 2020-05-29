@@ -35,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -110,24 +110,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="490" y="53" key="SettingsEditor" timestamp="1590772963616">
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1590773697268">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="490" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590772963616" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1590773697268" />
+    <state x="490" y="53" key="SettingsEditor" timestamp="1590773386780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590773386780" />
   </component>
 </project>
