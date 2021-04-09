@@ -18,6 +18,6 @@ def car_game():
             break
         elif command == "help":
             print("""
-            start to start car.
-            stop to stop the car
-            quit to quit""")
+            type "start" to start car.
+            type "stop" to stop the car
+            type "quit" to quit""")
